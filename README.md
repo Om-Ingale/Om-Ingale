@@ -1,36 +1,39 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Om%20Ingale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<!-- ANIMATED HEADER: venom type with twinkling + code SVG overlay -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:080b14,30:0d0620,60:1a0533,100:080b14&height=240&section=header&text=Om%20Ingale&fontSize=76&fontColor=c4b5fd&fontAlignY=42&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descColor=7c3aed&descSize=16&animation=twinkling&stroke=7c3aed&strokeWidth=2" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Full+Stack+Web+Applications;AI-Powered+Trading+Systems;Competitive+Programmer+%7C+150%2B+DSA+Solved;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- FLOATING CODE SNIPPET SVG — pure SVG, renders on GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=99999&pause=99999&color=7c3aed&center=true&vCenter=false&multiline=true&repeat=false&width=700&height=40&lines=const+api+%3D+new+FastAPI()++%7C+import+React+from+%22react%22++%7C+SELECT+*+FROM+users++%7C+docker+build+-t+app+.++%7C+git+commit+-m+%22feat%22" />
+
+<!-- TYPING LINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&random=false&width=660&lines=const+Om+%3D+new+FullStackDeveloper()%3B;%E2%96%B6+Shipped+AI+trading+bots+%26+marketplaces+%F0%9F%94%A5;%E2%96%B6+150%2B+DSA+problems+solved+%7C+LeetCode+%26+CF;%E2%96%B6+B.E.+CS+%40+VCET+2024%E2%80%932028+%F0%9F%9A%80;%E2%96%B6+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Ingale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-ingale)
-[![GitHub](https://img.shields.io/badge/GitHub-Om--Ingale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Ingale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Om_ingale1206-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Om_ingale1206)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Om_Ingale-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Om_Ingale)
-[![Mail](https://img.shields.io/badge/Email-ingaleom126@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingaleom126@gmail.com)
+<a href="https://www.linkedin.com/in/om-ingale"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Om-Ingale"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/u/Om_ingale1206"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="https://codeforces.com/profile/Om_Ingale"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;
+<a href="mailto:ingaleom126@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Om-Ingale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+## ◈ About Me
 
-### 👨‍💻 About Me
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Om-Ingale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080b14&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0&rank_icon=percentile&include_all_commits=true&count_private=true" />
 
 ```typescript
-const Om = {
-  role: "Full Stack Developer",
-  education: "B.E. Computer Engineering @ VCET (2024–2028)",
-  location: "Mumbai, India 🇮🇳",
-  currently: "Building AI-powered trading systems",
-  passion: ["Clean Code", "System Design", "DSA", "AI/ML"],
-  funFact: "I automate everything — even railroad crossings 🚂"
+const Om: Developer = {
+  location  : "Mumbai, India 🇮🇳",
+  degree    : "B.E. CS @ VCET  2024–2028",
+  building  : "AI-Powered Trading Systems",
+  learning  : ["System Design", "ML/AI", "DevOps"],
+  superpower: "Coffee → production code ☕",
+  openTo    : "Internships & Collaborations 🚀",
+  reach     : "ingaleom126@gmail.com",
 };
 ```
 
@@ -38,133 +41,122 @@ const Om = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## ◈ Tech Stack
 
 <div align="center">
 
-**Languages**
+### ⬡ Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark&perline=5" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<br/>
 
-**Frontend**
+### ⬡ Frontend
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap&theme=dark&perline=6" />
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-**Backend**
+### ⬡ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&theme=dark&perline=4" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<br/>
 
-**Databases & Cloud**
+### ⬡ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark&perline=4" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<br/>
 
-**Tools**
+### ⬡ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux&theme=dark&perline=5" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br/>
+
+### ⬡ Tools & Design
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode&theme=dark&perline=3" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Om-Ingale/Intellitrail">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Intellitrail&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Intellitrail&theme=tokyonight&hide_border=true&bg_color=080b14&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0" />
+</a>&nbsp;
 <a href="https://github.com/Om-Ingale/Home-Harmony">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Home-Harmony&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Home-Harmony&theme=tokyonight&hide_border=true&bg_color=080b14&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0" />
 </a>
 
 </div>
 
 <br/>
 
-### ⚡ IntelliTrail — AI-Driven TSLO Trading System
-> `React.js` `Tailwind CSS` `FastAPI` `Supabase` `scikit-learn`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🤖 AI-powered trading platform with intelligent buy/sell bots using dynamic trailing stop-loss (TSLO) strategies
-- 📊 Real-time dashboards with candlestick charts, SMA & RSI technical indicators
-- 🔮 ML-based price trend prediction with backtesting via scikit-learn
+### ⚡ IntelliTrail
+**AI-Driven TSLO Trading System**
+
+`React.js` · `FastAPI` · `Supabase` · `scikit-learn` · `Tailwind`
+
+- 🤖 Intelligent buy/sell bots with dynamic trailing stop-loss
+- 📊 Real-time candlestick, SMA & RSI indicator dashboards
+- 🔮 ML price-trend prediction with backtesting via scikit-learn
 - ⚡ Low-latency FastAPI pipelines for bot execution & order tracking
 
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Home Harmony
+**Furniture & Appliance Marketplace**
+
+`Node.js` · `Express` · `MongoDB` · `Razorpay` · `MapBox` · `Passport.js`
+
+- 🗺️ Cloudinary image uploads + MapBox geo + Razorpay payments
+- 🔐 Passport.js auth, OTP reset & full admin dashboard
+- 📦 Multi-step checkout with PDF receipts & email notifications
+- 🗄️ 6 Mongoose schemas with TTL indexes & cascading hooks
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🏠 Home Harmony — Furniture & Appliance Marketplace
-> `Node.js` `Express.js` `MongoDB` `Razorpay` `Cloudinary` `MapBox` `Passport.js`
-
-- 🛒 Full-stack marketplace with Cloudinary image uploads, MapBox geo-location & Razorpay payments
-- 🔐 Passport.js auth + OTP-based password reset + full admin dashboard
-- 📦 Multi-step checkout with order tracking timeline, PDF receipts & email notifications
-- 🗄️ 6 Mongoose schemas with TTL indexes, virtuals & cascading delete hooks
-
----
-
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Ingale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Ingale&layout=donut&theme=tokyonight&hide_border=true&bg_color=080b14&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" />&nbsp;&nbsp;
+<img height="190" src="https://streak-stats.demolab.com?user=Om-Ingale&theme=tokyonight&hide_border=true&background=080b14&ring=7c3aed&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e2e8f0&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Om-Ingale&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Om-Ingale&bg_color=080b14&color=c4b5fd&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## ◈ Achievements & Certifications
 
 <div align="center">
 
-| 🥇 Achievement | Details |
-|---|---|
-| 💡 **150+ DSA Problems** | LeetCode & Codeforces — Arrays, Trees, Graphs, DP |
-| 🏗️ **VNPS'25 National Hackathon** | Automated Railroad Crossing System using Arduino & IR sensors |
-
-</div>
+| &nbsp; | Highlight | Detail |
+|:---:|---|---|
+| 🧩 | **150+ DSA Problems** | LeetCode & Codeforces — Arrays · Trees · Graphs · DP |
+| 🏆 | **VNPS'25 National Hackathon** | Automated Railroad Crossing System — Arduino · IR Sensors · Servo Motors |
 
 <br/>
 
-<div align="center">
-
-![Full Stack](https://img.shields.io/badge/Full_Stack_Dev-Apna_College_Aug_2025-4CAF50?style=flat-square&logo=checkmarx)
-![DSA](https://img.shields.io/badge/DSA-Apna_College_Nov_2025-4CAF50?style=flat-square&logo=checkmarx)
-![Java](https://img.shields.io/badge/Java_Programming-Infosys_Oct_2025-0056A3?style=flat-square&logo=infosys)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-Figma_Nov_2025-F24E1E?style=flat-square&logo=figma)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-IBM_Jan_2026-054ADA?style=flat-square&logo=ibm)
-![AI](https://img.shields.io/badge/AI_Fundamentals-IBM_Apr_2026-054ADA?style=flat-square&logo=ibm)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Om-Ingale&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://img.shields.io/badge/✦_Full_Stack_Dev-Apna_College_•_Aug_2025-22c55e?style=flat-square&labelColor=080b14" />&nbsp;
+<img src="https://img.shields.io/badge/✦_DSA-Apna_College_•_Nov_2025-22c55e?style=flat-square&labelColor=080b14" />&nbsp;
+<img src="https://img.shields.io/badge/✦_Java-Infosys_•_Oct_2025-3b82f6?style=flat-square&labelColor=080b14" />&nbsp;
+<img src="https://img.shields.io/badge/✦_UI%2FUX-Figma_•_Nov_2025-f24e1e?style=flat-square&labelColor=080b14" />&nbsp;
+<img src="https://img.shields.io/badge/✦_Cloud_Computing-IBM_•_Jan_2026-0f62fe?style=flat-square&labelColor=080b14" />&nbsp;
+<img src="https://img.shields.io/badge/✦_AI_Fundamentals-IBM_•_Apr_2026-0f62fe?style=flat-square&labelColor=080b14" />
 
 </div>
 
@@ -172,17 +164,13 @@ const Om = {
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Epic!
+### ✨ Let's build something extraordinary.
 
-[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-ingale)
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Ingale)
+<a href="https://www.linkedin.com/in/om-ingale"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:ingaleom126@gmail.com"><img src="https://img.shields.io/badge/Drop_a_Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Om-Ingale&label=Profile+Views&color=7c3aed&style=for-the-badge)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:080b14,40:1a0533,70:2d1b69,100:080b14&height=120&section=footer&animation=twinkling&stroke=7c3aed&strokeWidth=1" />
 
 </div>
