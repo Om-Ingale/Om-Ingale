@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Om%20Ingale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06080f,35:0d0b20,65:1a1040,100:06080f&height=260&section=header&text=Om%20Ingale&fontSize=78&fontColor=e2e8f0&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descColor=8b5cf6&descSize=16&animation=twinkling&stroke=8b5cf6&strokeWidth=2" />
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Full+Stack+Web+Applications;AI-Powered+Trading+Systems;Competitive+Programmer+%7C+150%2B+DSA+Solved;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Ingale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-ingale)
 [![GitHub](https://img.shields.io/badge/GitHub-Om--Ingale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Ingale)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Om_ingale1206-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Om_ingale1206)
@@ -42,81 +39,56 @@ const Om = {
 
 <div align="center">
 
-**Languages**
+**`Languages`**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<table><tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/><br/><sub><b>C</b></sub></td>
+</tr></table>
 
-**Frontend**
+**`Frontend`**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table><tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><sub><b>React.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48"/><br/><sub><b>Redux</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/><sub><b>Tailwind CSS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48"/><br/><sub><b>Bootstrap</b></sub></td>
+</tr></table>
 
-**Backend**
+**`Backend`**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<table><tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/><sub><b>Express.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br/><sub><b>FastAPI</b></sub></td>
+</tr></table>
 
-**Databases & Cloud**
+**`Databases & Cloud`**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<table><tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48"/><br/><sub><b>Kubernetes</b></sub></td>
+</tr></table>
 
-**Tools**
+**`Tools`**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Om-Ingale/Intellitrail">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Intellitrail&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Om-Ingale/Home-Harmony">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Home-Harmony&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
+<table><tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/><sub><b>Figma</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48"/><br/><sub><b>Supabase</b></sub></td>
+</tr></table>
 
 </div>
-
-<br/>
-
-### ⚡ IntelliTrail — AI-Driven TSLO Trading System
-> `React.js` `Tailwind CSS` `FastAPI` `Supabase` `scikit-learn`
-
-- 🤖 AI-powered trading platform with intelligent buy/sell bots using dynamic trailing stop-loss (TSLO) strategies
-- 📊 Real-time dashboards with candlestick charts, SMA & RSI technical indicators
-- 🔮 ML-based price trend prediction with backtesting via scikit-learn
-- ⚡ Low-latency FastAPI pipelines for bot execution & order tracking
-
----
-
-### 🏠 Home Harmony — Furniture & Appliance Marketplace
-> `Node.js` `Express.js` `MongoDB` `Razorpay` `Cloudinary` `MapBox` `Passport.js`
-
-- 🛒 Full-stack marketplace with Cloudinary image uploads, MapBox geo-location & Razorpay payments
-- 🔐 Passport.js auth + OTP-based password reset + full admin dashboard
-- 📦 Multi-step checkout with order tracking timeline, PDF receipts & email notifications
-- 🗄️ 6 Mongoose schemas with TTL indexes, virtuals & cascading delete hooks
 
 ---
 
@@ -134,18 +106,17 @@ const Om = {
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📈 Contribution Graph
 
 <div align="center">
 
-| 🥇 Achievement | Details |
-|---|---|
-| 💡 **150+ DSA Problems** | LeetCode & Codeforces — Arrays, Trees, Graphs, DP |
-| 🏗️ **VNPS'25 National Hackathon** | Automated Railroad Crossing System using Arduino & IR sensors |
+[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Om-Ingale&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<br/>
+---
+
+## 🏆 Certifications
 
 <div align="center">
 
@@ -160,16 +131,6 @@ const Om = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Om-Ingale&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Epic!
@@ -179,11 +140,6 @@ const Om = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Om-Ingale&label=Profile+Views&color=7c3aed&style=for-the-badge)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06080f,40:1a1040,70:0d0b20,100:06080f&height=120&section=footer&animation=twinkling&stroke=8b5cf6&strokeWidth=1" />
 
 </div>
-
