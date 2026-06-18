@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06080f,35:0d0b20,65:1a1040,100:06080f&height=260&section=header&text=Om%20Ingale&fontSize=78&fontColor=e2e8f0&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descColor=8b5cf6&descSize=16&animation=twinkling&stroke=8b5cf6&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:1a0533,70:2d1b69,100:0d1117&height=250&section=header&text=Om%20Ingale&fontSize=78&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descColor=a78bfa&descSize=17&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Full+Stack+Web+Applications;AI-Powered+Trading+Systems;Competitive+Programmer+%7C+150%2B+DSA+Solved;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=640&lines=Crafting+code+that+ships+%F0%9F%9A%80;Full+Stack+%7C+React+%C2%B7+Node+%C2%B7+Spring+Boot;Turning+ideas+into+production+apps+%E2%9A%A1;Clean+architecture%2C+dirty+commits+%F0%9F%98%84;Always+learning%2C+never+stopping+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -92,6 +92,64 @@ const Om = {
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Om-Ingale/Intellitrail">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Intellitrail&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=12" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Om-Ingale/Home-Harmony">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Ingale&repo=Home-Harmony&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=12" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ IntelliTrail
+> AI-Driven TSLO Trading System
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+- 🤖 Buy/sell bots with dynamic trailing stop-loss strategies
+- 📊 Real-time candlestick charts, SMA & RSI indicators
+- 🔮 ML-based price trend prediction with backtesting
+- ⚡ Low-latency FastAPI pipelines for order tracking
+
+</td>
+<td width="8px"></td>
+<td width="50%" valign="top">
+
+### 🏠 Home Harmony
+> Furniture & Appliance Marketplace
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![MapBox](https://img.shields.io/badge/MapBox-000000?style=flat-square&logo=mapbox&logoColor=white)
+
+- 🛒 Cloudinary uploads, MapBox geo & Razorpay payments
+- 🔐 Passport.js auth + OTP reset + admin dashboard
+- 📦 Multi-step checkout, PDF receipts & email notifications
+- 🗄️ 6 Mongoose schemas with TTL indexes & cascading hooks
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -140,6 +198,6 @@ const Om = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06080f,40:1a1040,70:0d0b20,100:06080f&height=120&section=footer&animation=twinkling&stroke=8b5cf6&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:1a0533,70:2d1b69,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
